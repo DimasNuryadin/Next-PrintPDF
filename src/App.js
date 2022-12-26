@@ -1,7 +1,8 @@
 import React from 'react'
+import ReactPdfPrint from './ReactPdfPrint'
 
 export default function App() {
   return (
-    <div>App</div>
+    <ReactPdfPrint />
   )
 }
